@@ -1,0 +1,3 @@
+,Year,Month,Day,Hour,Lat,Lon,Hi,Cos_Lat_0,Cos_Lon_0,Cos_Hi_0,Distance_0,T3H_0,REH_0,UUU_0,VVV_0,Cos_Lat_1,Cos_Lon_1,Cos_Hi_1,Distance_1,T3H_1,REH_1,UUU_1,VVV_1,Cos_Lat_2,Cos_Lon_2,Cos_Hi_2,Distance_2,T3H_2,REH_2,UUU_2,VVV_2
+0,2019,1,1,0,30,120,0,0,0,0,0,-50,0,-100,-100,0,0,0,0,-50,0,-100,-100,0,0,0,0,-50,0,-100,-100
+1,2022,12,31,23,45,135,3000,1,1,1,3000,50,100,100,100,1,1,1,3000,50,100,100,100,1,1,1,3000,50,100,100,100
